@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Silver Stars Supreme No Win All WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="SilverStarsSupremeNoWinAll" enableFreeSpin="Y" clientversion="1.0" gameId="300-2201-0" />
+	<GameClient name="Silver Stars Supreme No Win All WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="SilverStarsSupremeNoWinAll" enableFreeSpin="Y" clientversion="1.0" gameId="300-2201-0" />
+	<GameClient name="Silver Stars Supreme No Win All WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="SilverStarsSupremeNoWinAll" enableFreeSpin="Y" clientversion="1.0" gameId="300-2201-0" />
+</ClientConfig>
